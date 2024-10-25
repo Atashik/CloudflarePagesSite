@@ -1,3 +1,11 @@
-/Data/*.gz
-  Content-Encoding: gzip, deflate, br, zstd
-  Content-Type: application/gzip .data.gz
+/Data/*.data.gz
+  Content-Encoding: gzip
+  Content-Type: application/gzip
+  
+/Data/*.wasm.gz
+  Content-Encoding: gzip
+  Content-Type: application/wasm
+  
+/Data/*.js.gz
+  Content-Encoding: gzip
+  Content-Type: application/javascript
