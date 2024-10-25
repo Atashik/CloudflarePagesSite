@@ -1,3 +1,6 @@
+/Build/*
+  x-content-type-options: nosniff
+
 /Build/*.data.gz
   Content-Type: application/gzip
   Content-Encoding: gzip
