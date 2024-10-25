@@ -1,3 +1,2 @@
 /*
-  Content-Encoding: br
-  Content-Encoding: gzip
+  Accept-Encoding: gzip, deflate, br, zstd
