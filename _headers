@@ -13,6 +13,6 @@
   Content-Encoding: gzip
   Content-Type: application/javascript
   
-/Build/*.js
+/*.js
   Content-Encoding: gzip
   Content-Type: application/javascript
