@@ -1,11 +1,14 @@
 /Data/*.data.gz
   Content-Encoding: gzip
   Content-Type: application/gzip
+  X-Content-Type-Options: nosniff
   
 /Data/*.wasm.gz
   Content-Encoding: gzip
   Content-Type: application/wasm
+  X-Content-Type-Options: nosniff
   
 /Data/*.js.gz
   Content-Encoding: gzip
   Content-Type: application/javascript
+  X-Content-Type-Options: nosniff
