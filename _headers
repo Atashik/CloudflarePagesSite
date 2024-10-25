@@ -1,5 +1,3 @@
 /*
-  Accept-Encoding: gzip, deflate, br, zstd
   Content-Encoding: gzip, deflate, br, zstd
-  content-type:	application/x-javascript
   Content-Type: application/javascript
