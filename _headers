@@ -1,18 +1,14 @@
-#  ! Content-Security-Policy
-/*
-  ! X-Content-Type-Options
-
 /Build/*.data.gz
-  Content-Type:application/gzip
-  Content-Encoding:gzip
+  Content-Type: application/gzip
+  Content-Encoding: gzip
   
 /Build/*.wasm.gz
-  Content-Type:application/wasm
-  Content-Encoding:gzip
+  Content-Type: application/wasm
+  Content-Encoding: gzip
   
 /Build/*.js.gz
-  Content-Type:application/javascript
-  Content-Encoding:gzip
+  Content-Type: application/javascript
+  Content-Encoding: gzip
   
 /Build/*.js
-  Content-Type:application/javascript
+  Content-Type: application/javascript
