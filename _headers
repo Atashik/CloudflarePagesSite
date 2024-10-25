@@ -3,16 +3,16 @@
   ! X-Content-Type-Options
 
 /Build/*.data.gz
-  Content-Encoding: gzip
-  Content-Type: application/gzip
+  Content-Type:application/gzip
+  Content-Encoding:gzip
   
 /Build/*.wasm.gz
-  Content-Encoding: gzip
-  Content-Type: application/wasm
+  Content-Type:application/wasm
+  Content-Encoding:gzip
   
 /Build/*.js.gz
-  Content-Encoding: gzip
-  Content-Type: application/javascript
+  Content-Type:application/javascript
+  Content-Encoding:gzip
   
 /Build/*.js
-  Content-Type: application/javascript
+  Content-Type:application/javascript
