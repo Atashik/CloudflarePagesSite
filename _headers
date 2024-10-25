@@ -12,3 +12,7 @@
   Content-Encoding: gzip
   Content-Type: application/javascript
   !X-Content-Type-Options
+  
+/Data/*.js
+  Content-Type: application/javascript
+  !X-Content-Type-Options
