@@ -2,16 +2,17 @@
   x-content-type-options: nosniff
 
 /Build/*.data.gz
-  Content-Type: application/gzip
   Content-Encoding: gzip
+  Content-Type: application/gzip
   
 /Build/*.wasm.gz
-  Content-Type: application/wasm
   Content-Encoding: gzip
+  Content-Type: application/wasm
   
 /Build/*.js.gz
-  Content-Type: application/javascript
   Content-Encoding: gzip
+  Content-Type: application/javascript
   
 /Build/*.js
+  Content-Encoding: gzip
   Content-Type: application/javascript
